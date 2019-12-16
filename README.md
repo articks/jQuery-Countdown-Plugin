@@ -5,7 +5,7 @@ JQuery Countdown Plugin
 
 ```html
 <span class="countdown" data-seconds="3600"></span>
-```html
+```
 
 Инициализируем счетчик
 
@@ -28,4 +28,4 @@ $(function(){
 		});
 	});
 });
-```js
+```
