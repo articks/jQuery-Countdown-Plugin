@@ -3,7 +3,9 @@ JQuery Countdown Plugin
 
 Добавляем на страницу элемент, где будем показывать таймер (зададим время 1 час):
 
+```html
 <span class="countdown" data-seconds="3600"></span>
+```html
 
 Инициализируем счетчик
 
